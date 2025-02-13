@@ -14,7 +14,7 @@ export default ((opts?: Options) => {
     return (
       <footer class={`${displayClass ?? ""}`}>
         <p>
-          I would love to hear from you! feel free to reach out to me at my socials!
+        I would love to hear from you! Please feel free to connect with me on my socials!
         </p>
         <ul>
           {Object.entries(links).map(([text, link]) => (
