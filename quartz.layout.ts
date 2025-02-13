@@ -10,6 +10,11 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       GitHub: "https://github.com/jackyzha0/quartz",
       "Discord Community": "https://discord.gg/cRFFHYye7t",
+      Instagram: "https://www.instagram.com/jishnuthewalker",
+      Linkedin: "https://www.linkedin.com/in/jishnu-diwakar-b02a37160",
+      Behance: "https://www.behance.net/jishnuthewalker",
+      Portfolio: "https://jishnuthewalker.framer.website/",
+      
     },
   }),
 }
