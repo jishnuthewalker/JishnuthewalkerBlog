@@ -2,7 +2,7 @@ The first time I heard of typography, I had just been introduced into design. I 
 
 ![[ANgoor_030001-0060.gif]]
 
-![[Chicken Wings Test Cavilry (3) (2).gif]]
+![[Chicken Wings Test Cavilry (3) (2) (2).gif]]
 
 ![[Composition 3.gif]]
 
