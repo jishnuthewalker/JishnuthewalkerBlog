@@ -9,3 +9,5 @@ I’m a designer and tech enthusiast who loves creating experiences that just fe
 When I’m not creating, you’ll probably find me trekking, watching anime, vibing to Indian hip-hop, or enjoying some quiet time with nature and a strong cup of coffee.
 
 That’s me—a work in progress, figuring things out one step at a time. If you want to chat or collaborate. Let’s make something awesome!
+
+Why am I [[Starting a blog]]?
