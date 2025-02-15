@@ -1,5 +1,5 @@
 ---
-title: Welcome to Jishnu's blog
+title: Welcome to Nowhere.
 ---
 
 I’m Jishnu— a little awkward, definitely quirky, and always curious. I enjoy stepping out of my comfort zone—trying new things (like salsa dancing!), meeting new people, and learning whatever sparks my interest.

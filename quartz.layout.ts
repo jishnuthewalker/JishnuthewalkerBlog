@@ -14,7 +14,7 @@ export const sharedPageComponents: SharedLayout = {
       Linkedin: "https://www.linkedin.com/in/jishnu-diwakar-b02a37160",
       Behance: "https://www.behance.net/jishnuthewalker",
       Portfolio: "https://jishnuthewalker.framer.website/",
-      Email: "jishnuthewalker@gmail.com",
+      Email: "mailto:jishnuthewalker@gmail.com",
     },
   }),
 }
