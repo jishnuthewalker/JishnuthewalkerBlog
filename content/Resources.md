@@ -1,27 +1,6 @@
 
 Here's a bunch of tools I like to use and maybe random things I've found helpful over the years!
 
-### Other Resources Repos
-- https://github.com/sindresorhus/awesome
-- https://github.com/goabstract/Awesome-Design-Tools
-- https://github.com/alexpate/awesome-design-systems
-- https://github.com/robinstickel/awesome-design-principles
-- https://github.com/j0hnm4r5/awesome-creative-technology
-- https://github.com/johnjago/awesome-free-software
-- https://github.com/terkelg/awesome-creative-coding
-- https://github.com/raphamorim/awesome-canvas
-- https://github.com/willianjusten/awesome-audio-visualization
-- https://github.com/mathisonian/awesome-visualization-research
-- https://github.com/awesomedata/awesome-public-datasets
-- https://github.com/ttt30ga/awesome-product-design
-- https://github.com/santiagoxlopez/awesome-project-management
-- https://github.com/lukasz-madon/awesome-remote-job
-- https://github.com/lodthe/awesome-internships
-- https://github.com/tramcar/awesome-job-boards
-- https://github.com/filipelinhares/awesome-slack
-- https://github.com/aviaryan/awesome-no-login-web-apps
-
-- https://github.com/edm00se/awesome-board-games
 
 
 # Tools
@@ -102,3 +81,46 @@ Free stuff
 - https://www.designsphere.xyz/ (Design Podcasts)
 #### UX
 - https://uxofai.com/
+
+
+
+### Other Resources Repos
+
+Everything awesome
+- https://github.com/sindresorhus/awesome
+Design tools
+- https://github.com/goabstract/Awesome-Design-Tools
+Design Systems
+- https://github.com/alexpate/awesome-design-systems
+Design Principles
+- https://github.com/robinstickel/awesome-design-principles
+Creative technology
+- https://github.com/j0hnm4r5/awesome-creative-technology
+Free(as in freedom) Software
+- https://github.com/johnjago/awesome-free-software
+Creative coding
+- https://github.com/terkelg/awesome-creative-coding
+HTML Canvas Sketches
+- https://github.com/raphamorim/awesome-canvas
+Audio Visualization
+- https://github.com/willianjusten/awesome-audio-visualization
+Data Viz
+- https://github.com/mathisonian/awesome-visualization-research
+Datasets
+- https://github.com/awesomedata/awesome-public-datasets
+Product Design
+- https://github.com/ttt30ga/awesome-product-design
+Product Management
+- https://github.com/santiagoxlopez/awesome-project-management
+Remote Jobs
+- https://github.com/lukasz-madon/awesome-remote-job
+Internships
+- https://github.com/lodthe/awesome-internships
+Job Boards
+- https://github.com/tramcar/awesome-job-boards
+Slack Communities
+- https://github.com/filipelinhares/awesome-slack
+No log-in tools
+- https://github.com/aviaryan/awesome-no-login-web-apps
+Board Games
+- https://github.com/edm00se/awesome-board-games

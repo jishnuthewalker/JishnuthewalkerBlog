@@ -1,3 +1,5 @@
+
+~~It's funny I find the need to justify this to myself :P~~
 ### Why? 
 I often find myself exploring a lot of new thing in life and on the internet. I really hate when it gets lost or I just end up forgetting about any of it. Thins is one way for me to document my thoughts and have some sort of a repository to point to and look back to.
 
