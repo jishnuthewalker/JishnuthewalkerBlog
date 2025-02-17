@@ -1,22 +1,52 @@
-The first time I heard of typography, I had just been introduced into design. I was amazed that so much detail and structure goes behind just fonts that we take for granted. Then I would browse through Foundries and Font collections just figuring looking at admiring fonts. to me it was a spectacle. 
 
-Over the year I would always come across the frustration of never being able to smoothly transition from the different weights of fonts. It never made sense to me why it was just so impossible. (I was really dumb) In 2018, I had understood a bit of the technical limitations of why fonts can't animate, I heard about Variable fonts. My mind, was BLOWN 🧠💥. Somehow, designers and engineers came together across the world and built a method of solving this was nothing short of amazing.
+Over the year I would always come across the frustration of never being able to smoothly transition from the different weights of fonts. It never made sense to me why it was just so impossible. (I was really dumb) In 2018, I had understood a bit of the technical limitations of why fonts can't animate, I heard about [Variable fonts](https://fonts.google.com/knowledge/introducing_type/introducing_variable_fonts). My mind, was BLOWN 🧠💥. Somehow, designers and engineers came together across the world and built a method of solving this was nothing short of amazing.
 
 I went on to experiment and use variable font wherever I could. Though it was never the focus of my work it always managed to come in clutch every time I was working with type.
 
+Here's some of my past explorations.
+
+
 ![[ANgoor_030001-0060.gif | 500]]
 
+
+![[Introducing.gif|500]]
+
+
+
+![[zen_i8ksvSseOO.gif|500]]
+
+
+
+In my DES, I embarked on a journey to figure of a workflow to use Variable font for animation. Explore the existing tools that allow for variable fonts and explore their visuals and outputs.
+
+Using [Cavalry](https://cavalry.scenegroup.co/) to explore gradients, cloning and Variable fonts.
+
+![[Chicken Wings Test Cavilry _3_ _2_ _2_.gif|500]]
+
 ![[Composition 3.gif | 500]]
-
-![[zen_41Wx6oTqQo (2).gif | 500]]
-
-
-In my DES, I embarked on a journey to figure of a workflow to use Variable font for animation. Explore the existing tools that allow for variable fonts and explore the visuals and outputs of using them.
 
 ![[Variable Typography DES.mp4 | 500]]
 
 
-![[ColdType_V3.mp4]]
+
+Trying to figure out Variable fonts and JavaScript
+
+![[zen_3zuBWeIEM9.gif]]
+
+
+![[zen_41Wx6oTqQo (2).gif | 500]]
+
+
+
+
+
+
+Use of the Coldtype Python library(It's so much fun!)
+![[ColdType_V5.mp4]]
+
+![[ColdType_V4.mp4]]
+
+![[ColdType_V3 1.mp4]]
 
 
 ![[ColdType_V1.mp4]]
@@ -24,11 +54,22 @@ In my DES, I embarked on a journey to figure of a workflow to use Variable font 
 
 ![[ColdType_V2.mp4]]
 
+
+# 3D Experiments (Coldtype and Blender)
+
+
+![[ColdType_V8.mp4]]
+
+![[ColdType_V7.mp4]]
+
+![[ColdType_V6.mp4]]
+
+
 # Using Coldtype in blender
 
 So there is an addon called [ST2](https://coldtype.xyz/st2/) for blender developed by [Rob Stenson](https://robstenson.com).
 
-but i have no idea how to use it. So i decided to use the [coldtype](https://github.com/coldtype/coldtype) library and set that up instead (Instructions also provided by Rob on the coldtype docs)
+but i have no idea how to use it. So i decided to use the [coldtype](https://github.com/coldtype/coldtype) library and set that up instead (also developed by Rob)
 
 Let me get right to it, it was a pain. This wasn't even the first time using the library but it was still really difficult to install. Wrapping my head around [venv](https://docs.python.org/3/library/venv.html) and using coldtype along with [b3denv](https://github.com/coldtype/b3denv) (a tool by Rob to help expose [blender's python api](https://docs.blender.org/api/current/index.html). 
 
@@ -60,7 +101,7 @@ Installing Coldtype(with b3d)
 - make sure you have blender installed (It's so much easier if you have it installed in the default location, you'll save yourself so much hassle, if not refer to this part of the [readme](https://github.com/coldtype/b3denv?tab=readme-ov-file#non-default-blender-installs) )
 - here you can run `b3denv python -m venv benv`. This will setup a virtual environment named 'benv'
 - Now, to activate the environment run `./venv/Scripts/Activate.ps1` 
-- I had to install cold type again by `coldtype demo` 
+- I had to install cold type again by `pip install "coldtype[viewer]"` 
 - make sure the python file includes the headers,
 
 ```
@@ -70,5 +111,5 @@ from coldtype import *
 ```
 
 - now you should be able to test the install by `coldtype examples/blender/varfont.py -p b3d`
-- -p is a flag for property I think and b3d is to set it up for blender
+- '-p' is a flag for property I think and 'b3d' is to set it up for blender
 - alternatively you can use `coldtype examples/blender/varfont.py -bw 1` but I have not tested this yet. 

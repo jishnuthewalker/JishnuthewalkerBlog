@@ -39,7 +39,8 @@ Eye candy
 - https://typefaces.today/ (Display Fonts)
 - https://www.axis-praxis.org/specimens/__DEFAULT__ (Variable Font Tester)
 - https://v-fonts.com (Variable Fonts, https://v-fonts.com/fonts/font-face )
-- https://hex.xyz/ (Fonts from Hex, https://hex.xyz/assets/styles/fonts.css?2024-06-18)
+- https://hex.xyz/ (Fonts from Hex, https://hex.xyz/assets/styles/fonts.css?2024-06-18
+- https://toomuchtype.com/ (really interactive type faces and visualizer)
 
 Paid stuff
 - https://typefaces.pizza/ (Pizza Typefaces, $)
