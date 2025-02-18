@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 ---
 
 ## Secondary research
@@ -40,32 +40,42 @@ draft: false
 - Parents trust teachers more than apps, although some parent see sending children to additional classes as a hassle.
 - In younger children parents are worried about children not being able to make new friends, where as in slightly older children academics takes precedent.
 - Most parents and children have tried kannada learning apps but never end up sticking to them.
+- Children don't see learning languages as a priority.
+- Children see language learning apps and classes a boring as it tarts to feel repetitive.
+- 
 
 
 
+- Family Relocation & Emotional Uncertainty
+- │
+- ▼
+- School Enrolment & Limited Orientation
+- │
+- ▼
+- Initial Classroom Exposure & Confusing Teaching Styles
+- │
+- ▼
+- Inconsistent Digital Learning (Apps & Home Practice)
+- │
+- ▼
+- Awkward Peer Interactions & Limited Social Bonding
+- │
+- ▼
+- Informal Local Interactions with Mixed Success
+- │
+- ▼
+- Regular Assessments Highlighting Gaps
+- │
+- ▼
+- Gradual Improvement via Remedial Help & Adaptation
+- │
+- ▼
+- Slow, Ongoing Integration & Increased Confidence
 
-Family Relocation & Emotional Uncertainty
-│
-▼
-School Enrollment & Limited Orientation
-│
-▼
-Initial Classroom Exposure & Confusing Teaching Styles
-│
-▼
-Inconsistent Digital Learning (Apps & Home Practice)
-│
-▼
-Awkward Peer Interactions & Limited Social Bonding
-│
-▼
-Informal Local Interactions with Mixed Success
-│
-▼
-Regular Assessments Highlighting Gaps
-│
-▼
-Gradual Improvement via Remedial Help & Adaptation
-│
-▼
-Slow, Ongoing Integration & Increased Confidence
+
+## User Persona
+
+
+#### Jay Agarwal
+
+
