@@ -60,7 +60,10 @@ Use of the Coldtype Python library(It's so much fun!)
 
 ![[ColdType_V8.mp4]]
 
-![[ColdType_V7.mp4]]
+![[ColdType_V9.mp4]]
+
+![[ColdType_V10.mp4]]
+
 
 ![[ColdType_V6.mp4]]
 
