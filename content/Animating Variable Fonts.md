@@ -21,7 +21,7 @@ In my DES, I embarked on a journey to figure of a workflow to use Variable font 
 
 Using [Cavalry](https://cavalry.scenegroup.co/) to explore gradients, cloning and Variable fonts.
 
-![[content/Assets/Chicken Wings Test Cavilry (3) (2) (2).gif|500]]
+![[Chicken Wings Test Cavilry (3) (2) (2).gif | 500]]
 
 ![[Composition 3.gif | 500]]
 

@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"0f288988da7774be","type":"text","text":"User Personas","x":-240,"y":-228,"width":250,"height":60},
+		{"id":"a48655926b0a0c41","type":"text","text":"Parvati Iyer | 13 Years old","x":-240,"y":0,"width":250,"height":60},
+		{"id":"b7f0dc05a0ed0d14","type":"text","text":"Zaki Khan | 15 Years old","x":80,"y":0,"width":250,"height":60},
+		{"id":"8045e4a190d7f327","type":"text","text":"Jay Joshi | 11 Years old","x":-580,"y":0,"width":250,"height":60},
+		{"id":"d87ede891ca7b911","type":"text","text":"Mumbai, Maharashtra","x":-580,"y":60,"width":250,"height":60},
+		{"id":"7a304c09267a889c","type":"text","text":"Chennai, Tamil Nadu","x":-240,"y":60,"width":250,"height":60},
+		{"id":"9c551f23f9da81b4","type":"text","text":"Amritsar, Punjab","x":80,"y":60,"width":250,"height":60},
+		{"id":"0fd6c22867667911","x":-580,"y":200,"width":250,"height":220,"type":"text","text":"Has been living in Bengaluru his whole life but never got a chance to learn kannada as can get around with Hindi. New is forced to start learning Kannada as it is mandatory in school."},
+		{"id":"4c69d8e9b56e5186","x":-240,"y":200,"width":250,"height":302,"type":"text","text":"Is new to Bengaluru but has been able to have nice progress with kannada as she lives in a Kannadiga colony where a lot of the kids talk in kannada. She feels left out especially when they make Jokes in kannada and she does not understand them."},
+		{"id":"e790951fdabbcbcb","x":80,"y":200,"width":250,"height":255,"type":"text","text":"Is new to Bengaluru and is having a hard time making friends and coping with kannada classes in school All the children are already years ahead of him. Kannada periods the absolute worst!."}
+	],
+	"edges":[
+		{"id":"ec747929e34995ae","fromNode":"0f288988da7774be","fromSide":"bottom","toNode":"8045e4a190d7f327","toSide":"top"},
+		{"id":"e509c1ac0ae09ac8","fromNode":"0f288988da7774be","fromSide":"bottom","toNode":"a48655926b0a0c41","toSide":"top"},
+		{"id":"9006389be2e79676","fromNode":"0f288988da7774be","fromSide":"bottom","toNode":"b7f0dc05a0ed0d14","toSide":"top"},
+		{"id":"31546213a6002b3d","fromNode":"d87ede891ca7b911","fromSide":"bottom","toNode":"0fd6c22867667911","toSide":"top"},
+		{"id":"565efb07f5173b05","fromNode":"7a304c09267a889c","fromSide":"bottom","toNode":"4c69d8e9b56e5186","toSide":"top"},
+		{"id":"e46cb2d6a444e691","fromNode":"9c551f23f9da81b4","fromSide":"bottom","toNode":"e790951fdabbcbcb","toSide":"top"}
+	]
+}
