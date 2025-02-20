@@ -42,30 +42,42 @@ Trying to figure out Variable fonts and JavaScript
 
 
 Use of the Coldtype Python library(It's so much fun!)
-![[ColdType_V5.mp4]]
 
-![[ColdType_V4.mp4]]
+![[ColdType_V5.gif]]
 
-![[ColdType_V3 1.mp4]]
+![[ColdType_V4.gif]]
+
+![[ColdType_V3.gif]]
+
+![[ColdType_V2.gif]]
 
 
-![[ColdType_V1.mp4]]
-
-
-![[ColdType_V2.mp4]]
 
 
 # 3D Experiments (Coldtype and Blender)
 
 
-![[ColdType_V8.mp4]]
+![[ColdType_V8.gif]]
 
-![[ColdType_V9.mp4]]
+![[ColdType_V9.gif]]
 
-![[ColdType_V10.mp4]]
+![[ColdType_V6.gif]]
+
+![[ColdType_V10.gif]]
 
 
-![[ColdType_V6.mp4]]
+![[render.gif]]
+
+![[specimen_01.gif]]
+
+![[specimen_02.gif]]
+
+
+
+
+
+
+
 
 
 # Using Coldtype in blender
