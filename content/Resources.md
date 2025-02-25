@@ -41,6 +41,7 @@ Eye candy
 - https://v-fonts.com (Variable Fonts, https://v-fonts.com/fonts/font-face )
 - https://hex.xyz/ (Fonts from Hex, https://hex.xyz/assets/styles/fonts.css?2024-06-18
 - https://toomuchtype.com/ (really interactive type faces and visualizer)
+- https://fontgauntlet.com/?font=%2Fstatic%2Ffonts%2FABCGravityVariable.woff2&family-name=ABC%20Gravity%20Variable(Variable font tester)
 
 Paid stuff
 - https://typefaces.pizza/ (Pizza Typefaces, $)
