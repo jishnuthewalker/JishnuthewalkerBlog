@@ -65,10 +65,13 @@ Use of the Coldtype Python library(It's so much fun!)
 
 ![[ColdType_V10.gif]]
 
+I was examining the animations and trying to figure out why some animations look more fun the others. why some animations are boring while some are way more interesting. It his me that in my perception, when the font axis and only the axis are being animated, the animation appears to be boring and plain. but as soon as I bring in animation of other font properties like tracking or x-height the animation become exponentially funkier! (This is why in 3D animating the extrusion of the glyphs is interesting!)
+
+In the following animations I am animation not just the width and weight but also the pt. size, tracking and individual glyph rotation.
 
 ![[render.gif]]
 
-![[specimen_01.gif]]
+
 
 ![[specimen_02.gif]]
 
@@ -80,7 +83,7 @@ Use of the Coldtype Python library(It's so much fun!)
 
 
 
-# Using Coldtype in blender
+# Using Coldtype in blender (Instructional guide)
 
 So there is an addon called [ST2](https://coldtype.xyz/st2/) for blender developed by [Rob Stenson](https://robstenson.com).
 

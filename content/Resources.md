@@ -75,6 +75,7 @@ Free stuff
 # Tools
 - https://photogradient.com/ (Extract Mesh Gradient from Image)
 - https://www.photopea.com/ (Online photoshop basically)
+- https://www.shadergradient.co/ (really pretty gradiants for framer, figma and react)
 
 
 # Misc. 

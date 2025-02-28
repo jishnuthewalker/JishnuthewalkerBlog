@@ -11,3 +11,5 @@ When I’m not creating, you’ll probably find me trekking, watching anime, vib
 That’s me—a work in progress, figuring things out one step at a time. If you want to chat or collaborate. Let’s make something awesome!
 
 Why am I [[Starting a blog]]?
+
+You can also check out my portfolio! https://www.jishnuthewalker.com/ 
