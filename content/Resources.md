@@ -72,11 +72,16 @@ Free stuff
 - https://unsplash.com/ (Unsplash)
 
 
-# Tools
+# Design Tools
 - https://photogradient.com/ (Extract Mesh Gradient from Image)
 - https://www.photopea.com/ (Online photoshop basically)
 - https://www.shadergradient.co/ (really pretty gradiants for framer, figma and react)
-
+- https://pikimov.com/app/ (motion graphis using browser, locally)
+- https://editor.graphite.rs/ (edit vectors using browser, locally)
+- https://omniclip.app (Video editor using browser, locally)
+- https://www.motionity.app/ (opensource canva)
+- https://studio.polotno.com/ (opensource canva 2)
+- 
 
 # Misc. 
 #### Playlists
@@ -84,8 +89,47 @@ Free stuff
 - https://www.designsphere.xyz/ (Design Podcasts)
 #### UX
 - https://uxofai.com
-
 - https://untools.co/#tools
+
+#### Folders and Files
+- Direct folders (makes managing folders easier(copy pasting paths))
+- Fluent Search (Super powerful especially has the ability to also show previews, can use tags to search)
+- Everything Search (and everything toolbar)
+- File Optimiser (Super duper feature rich)
+- File Converter (Accesses through file explorer right click)
+- Dropshelf (Paid...) (Easy clipboard manager)
+- JDownloader (Useful to download files from fitgirl)
+- Link shell extension (fixes right click in explorer)
+- LocalSend (easy to send files)
+- Nilesoft shell(windows rightclick menu)
+- Nana zip (7zip but prettier)
+- Onion media converter (converts anything)
+- Quicklook (explorer preview)
+- SoulSeek (HighRez Audio files)
+- Teracopy (replaces windows copy-paste)
+- BulkCrap Uninstaller
+- Explorer Patcher (patches the taskbar and some other file explorer things)
+- Wiztree (visualise your files really fkn fast)
+
+#### Internet
+- cloudflare WARP (Hides DNS, Play Valo in insti)
+- Open VPN
+
+#### Music
+- Spotube (spotify playlists through youtube)
+- Demucus GUI (audio splitter using ML)
+- NeuralNote (Audio to MIDI for keyboard)
+- Beatconnect (socialmedia DAW)
+- Mixxx(DJ software for noobs)
+- MuseScore (Transcribe music to sheet music)
+- Ultimate Vocal Remover (Removes vocals)
+- 
+
+#### Video
+- OBS Studio + zoom to mouse script
+- ShareX (Record GIFs and share em)
+- ScreenBox (VLC but prettier)
+- 
 
 
 
