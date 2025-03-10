@@ -31,6 +31,7 @@ Fuck Adobe, Use -
 #### General Design
 - https://trending.design/ (Animation, Branding, Graphic Design, Illustration)
 - https://www.unsection.com/ (Web Design)
+- https://21st.dev/?tab=components&sort=recommended
 #### Animation
 - https://www.designspells.com/  (Micro Interaction)
 #### Typography
@@ -114,6 +115,7 @@ Free stuff
 #### Internet
 - cloudflare WARP (Hides DNS, Play Valo in insti)
 - Open VPN
+- https://github.com/tw93/Pake/wiki/Online-Compilation-(used-by-ordinary-users) (run web apps locally using rust)
 
 #### Music
 - Spotube (spotify playlists through youtube)
@@ -131,6 +133,11 @@ Free stuff
 - ScreenBox (VLC but prettier)
 - 
 
+
+#### Creative Coding
+- https://threejs.org/
+- https://openframeworks.cc/examples/
+- 
 
 
 ### Other Resources Repos
