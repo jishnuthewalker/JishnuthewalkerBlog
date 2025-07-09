@@ -32,6 +32,7 @@ Fuck Adobe, Use -
 - https://trending.design/ (Animation, Branding, Graphic Design, Illustration)
 - https://www.unsection.com/ (Web Design)
 - https://21st.dev/?tab=components&sort=recommended
+- https://scenery.io/ (Cavalry project files)
 #### Animation
 - https://www.designspells.com/  (Micro Interaction)
 #### Typography
@@ -60,6 +61,14 @@ Free stuff
 - https://ektype.in/ (High quality Indic Scripts)
 #### Icons
 - https://www.isocons.app/ (Isometric Icons)
+- https://atlasicons.vectopus.com/  (https://atlas.adeven.com/docs/foundation/design-language/icons)
+- https://hugeicons.com/icons?style=Stroke&type=Rounded
+- https://github.com/Remix-Design/remixicon
+- https://tabler.io/icons
+- https://github.com/phosphor-icons/homepage
+
+- https://m3.material.io/styles/icons/designing-icons
+- https://fluent2.microsoft.design/iconography
 #### Design System
 - https://www.relume.io/figma-library (Relume)
 # Components
@@ -91,6 +100,14 @@ Free stuff
 #### UX
 - https://uxofai.com
 - https://untools.co/#tools
+
+
+#### Audio Editing
+- https://github.com/facebookresearch/demucs/tree/dcee007a350467abc3295dfe267034460f9ffa4e (Audio track separation)
+- https://github.com/CarlGao4/Demucs-Gui/tree/v2-develop (GUI for demucs)
+- https://github.com/Frikallo/MISST?tab=readme-ov-file (GUI for demucs)
+- github.com/hexgrad/kokoro (Text to Speech)
+- 
 
 #### Folders and Files
 - Direct folders (makes managing folders easier(copy pasting paths))
@@ -131,12 +148,13 @@ Free stuff
 - OBS Studio + zoom to mouse script
 - ShareX (Record GIFs and share em)
 - ScreenBox (VLC but prettier)
-- 
+- https://cap.so/?ref=openalternative.co (Loom alternative)
 
 
 #### Creative Coding
 - https://threejs.org/
 - https://openframeworks.cc/examples/
+- Coldtype
 - 
 
 
@@ -180,3 +198,32 @@ No log-in tools
 - https://github.com/aviaryan/awesome-no-login-web-apps
 Board Games
 - https://github.com/edm00se/awesome-board-games
+
+### Cavalry Tuts
+
+Youtube
+https://www.youtube.com/@cavalryapp
+https://www.youtube.com/@heyalisamotion
+https://www.youtube.com/@pepkomotion
+https://www.youtube.com/@Motionjiff
+https://www.youtube.com/@alexamormedia/videos
+https://www.youtube.com/@k-motion-tutorials
+https://www.youtube.com/@ElliotMosher
+https://www.youtube.com/@nicktheritter
+https://www.youtube.com/@mvankleef
+https://www.youtube.com/@KyleDailyMedia
+https://www.youtube.com/@MotionByKevin
+https://www.youtube.com/@holke79
+https://www.youtube.com/results?search_query=jack+vaughnan
+https://www.youtube.com/@TheVideoShopLondon/videos
+https://www.youtube.com/@mooviemakers6062/videos
+
+https://www.youtube.com/playlist?list=PL3ZRk7VwZVnhMXM0TC6TlCJte6y5FMcq3
+
+Instagram
+https://www.instagram.com/antonin.work/
+https://www.instagram.com/tinjutkin/
+https://www.instagram.com/keeskleinhemmink/
+
+https://scenery.io/
+https://discord.com/invite/avzgNKk
